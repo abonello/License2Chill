@@ -13,12 +13,16 @@ The following apps are used to develope and communicate with team members during
 4. trello
 5. github
 
+## REQUIREMENTS:
+There are no special requirements to this app because it run on all modern browsers and can be accessed as application on both mobile and desktop devices
+
 ## USER EXPERIENCE
+
 
 ## CODING STYLE
 
 ## DEPLOYMENT:
-The was deployed to github
+The app was deployed to github
 
 ## AUTHORS:
 This app was designed by:
